@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Baseline: item average,6.546,11.225,0.61
+Baseline: seasonal average,4.538,8.923,0.754
+Baseline: same weekday last week,6.322,12.194,0.54
+Gradient Boosting,4.183,8.493,0.777
